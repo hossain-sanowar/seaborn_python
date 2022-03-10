@@ -11,3 +11,4 @@ https://seaborn.pydata.org/
 9. Seaborn Point Plot
 10. Seaborn Distribution Plot
 11. Python Seaborn Pairplot and Joint Plot
+12. Python Countplot
