@@ -13,3 +13,4 @@ https://seaborn.pydata.org/
 11. Python Seaborn Pairplot and Joint Plot
 12. Python Countplot
 13. Python Horizontal Barchart
+14. Python Line plot
