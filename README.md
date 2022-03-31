@@ -14,3 +14,4 @@ https://seaborn.pydata.org/
 12. Python Countplot
 13. Python Horizontal Barchart
 14. Python Line plot
+15. Python Barplot
